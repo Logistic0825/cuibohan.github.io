@@ -11,6 +11,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        kai: ['楷体', 'KaiTi', 'serif'],
+    },
     },
   },
   plugins: [],
